@@ -56,11 +56,60 @@ Unlike vanilla contextual pre-trained fundamentally _small_ language models (e.g
 6. Leveraging large language models for clinical abbreviation disambiguation. [Paper](https://ai.nejm.org/doi/full/10.1056/AIdbp2300040)
 
 ### Attention mechanisms
+1. Attention is not all you need: the complicated case of ethically using large language models in healthcare and medicine. [Paper](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00077-4/fulltext?ref=dedataverbinders.nl)
+
 ### Prompt Engineering
+1. Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing. [Paper](https://dl.acm.org/doi/full/10.1145/3560815)
+2. Prompt engineering for healthcare: Methodologies and applications. [Paper](https://arxiv.org/abs/2304.14670)
+3. Chain of thought utilization in large language models and application in nephrology. [Paper](https://www.mdpi.com/1648-9144/60/1/148)
+4. ATSCOT: Chain of Thought for Structuring Anesthesia Medical Records. [Paper](https://ieeexplore.ieee.org/abstract/document/10776558)
+5. CoMT: Chain-of-medical-thought reduces hallucination in medical report generation. [Paper](https://ieeexplore.ieee.org/abstract/document/10887699)
+6. Surgraw: Multi-agent workflow with chain-of-thought reasoning for surgical intelligence. [Paper](https://arxiv.org/abs/2503.10265)
+7. AutoMedPrompt: A New Framework for Optimizing LLM Medical Prompts Using Textual Gradients. [Paper](https://arxiv.org/abs/2502.15944)
+
 ### Fine-tuning
+1. Do we still need clinical language models? [Paper](https://proceedings.mlr.press/v209/eric23a)
+2. Health Care Language Models and Their Fine-Tuning for Information Extraction: Scoping Review. [Paper]([https://proceedings.mlr.press/v209/eric23a](https://medinform.jmir.org/2024/1/e60164/))
+3. How to Design, Create, and Evaluate an Instruction-Tuning Dataset for Large Language Model Training in Health Care: Tutorial From a Clinical Perspective. [Paper](https://www.jmir.org/2025/1/e70481/)
+4. BioInstruct: instruction tuning of large language models for biomedical natural language processing. [Paper](https://academic.oup.com/jamia/article/31/9/1821/7687618)
+5. Instruction Tuning Large Language Models to Understand Electronic Health Records. [Paper](https://openreview.net/forum?id=Dgy5WVgPd2#discussion)
+6. Medalign: A clinician-generated dataset for instruction following with electronic medical records. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30205)
+7. LlamaCare: An Instruction Fine-Tuned Large Language Model for Clinical NLP. [Paper](https://aclanthology.org/2024.lrec-main.930/)
+8. Alpacare: Instruction-tuned large language models for medical application. [Paper](https://arxiv.org/abs/2310.14558)
+9. LEAP: LLM instruction-example adaptive prompting framework for biomedical relation extraction. [Paper](https://academic.oup.com/jamia/article/31/9/2010/7696965)
+10. Mdagents: An adaptive collaboration of llms for medical decision-making. [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/90d1fc07f46e31387978b88e7e057a31-Abstract-Conference.html)
+
 ### Knowledge distillation
+1. Distilling the knowledge from large-language model for health event prediction. [Paper](https://www.nature.com/articles/s41598-024-75331-2)
+2. Large language model distilling medication recommendation model. [Paper](https://arxiv.org/abs/2402.02803)
+3. SleepCoT: A Lightweight Personalized Sleep Health Model via Chain-of-Thought Distillation. [Paper](https://arxiv.org/abs/2410.16924)
+4. Non-small cell lung cancer detection through knowledge distillation approach with teaching assistant. [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306441)
+5. Distilling Large Language Models for Efficient Clinical Information Extraction. [Paper](https://arxiv.org/abs/2501.00031)
+6. LLM-Enhanced Multi-Teacher Knowledge Distillation for Modality-Incomplete Emotion Recognition in Daily Healthcare. [Paper](https://ieeexplore.ieee.org/document/10697478)
+7. Adapt-and-Distill: Developing Small, Fast and Effective Pretrained Language Models for Domains. [Paper](https://arxiv.org/abs/2106.13474)
+
 ### Quantization
+1. Privacy-Preserving SAM Quantization for Efficient Edge Intelligence in Healthcare. [Paper](https://arxiv.org/abs/2410.01813)
+2. Mental Healthcare Chatbot Based on Custom Diagnosis Documents Using a Quantized Large Language Model. [Paper](https://ieeexplore.ieee.org/document/10522371)
+3. MentalQLM: A lightweight large language model for mental healthcare based on instruction tuning and dual LoRA modules. [Paper](https://www.medrxiv.org/content/10.1101/2024.12.29.24319755v1)
+4. BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text. [Paper](https://arxiv.org/abs/2403.18421)
+5. mhGPT: A Lightweight Generative Pre-Trained Transformer for Mental Health Text Analysis. [Paper](https://arxiv.org/abs/2408.08261)
+6. BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains. [Paper](https://arxiv.org/abs/2402.10373)
+
 ### Pruning
+1. All-in-One Tuning and Structural Pruning for Domain-Specific LLMs. [Paper](https://arxiv.org/abs/2412.14426)
+2. Pruning as a Domain-specific LLM Extractor. [Paper](https://arxiv.org/abs/2405.06275)
+3. LLM-Pruner: On the Structural Pruning of Large Language Models. [Paper](https://arxiv.org/abs/2305.11627)
+
 ### Reasoning
+1. Chain of thought utilization in large language models and application in nephrology. [Paper](https://www.mdpi.com/1648-9144/60/1/148)
+2. ATSCOT: Chain of Thought for Structuring Anesthesia Medical Records. [Paper](https://ieeexplore.ieee.org/abstract/document/10776558)
+3. Comt: Chain-of-medical-thought reduces hallucination in medical report generation. [Paper](https://ieeexplore.ieee.org/abstract/document/10887699)
+4. Surgraw: Multi-agent workflow with chain-of-thought reasoning for surgical intelligence. [Paper](https://arxiv.org/abs/2503.10265)
+5. AutoMedPrompt: A New Framework for Optimizing LLM Medical Prompts Using Textual Gradients. [Paper](https://arxiv.org/abs/2502.15944)
+6. Merging Clinical Knowledge into Large Language Models for Medical Research and Applications: A Survey. [Paper](https://arxiv.org/abs/2502.20988)
+7. AlzheimerRAG: Multimodal Retrieval Augmented Generation for PubMed articles. [Paper](https://arxiv.org/abs/2412.16701)
+8. RT: a Retrieving and Chain-of-Thought framework for few-shot medical named entity recognition. [Paper](https://academic.oup.com/jamia/article/31/9/1929/7665312)
+9. Integrating Chain-of-Thought and Retrieval Augmented Generation Enhances Rare Disease Diagnosis from Clinical Notes. [Paper](https://arxiv.org/abs/2503.12286)
 
 
