@@ -2,6 +2,7 @@
 Unlike vanilla contextual pre-trained fundamentally _small_ language models (e.g., ClinicalBERT), our interest lies in compressed and optimized approaches for language models in healthcare, developed as a resource-efficient and domain-specialized solution to LLMs.
 
 ## Datasets for Healthcare Informatics
+1. MIMIC-III, a freely accessible critical care database. [Paper][https://www.nature.com/articles/sdata201635 ] | [Link][https://github.com/MIT-LCP/mimic-iii-paper/]
 
 ## Existing SLMs for Healthcare
 ### 100M to 5B parameters
