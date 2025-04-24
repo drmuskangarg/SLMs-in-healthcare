@@ -46,6 +46,21 @@ Unlike vanilla contextual pre-trained fundamentally _small_ language models (e.g
 13. CancerLLM: A Large Language Model in Cancer Domain. [Paper](https://arxiv.org/abs/2406.10459)
 
 
-## Compressed LLMs into SLMs for healthcare
+## Optimize SLMs for healthcare
+### Pretraining strategies
+1. Large language model benchmarks in medical tasks. [Paper](https://arxiv.org/pdf/2410.21348)
+2. Llama-3-Meditron: An Open-Weight Suite of Medical LLMs Based on Llama-3.1 [Paper](https://openreview.net/forum?id=ZcD35zKujO)
+3. Apollo: A Lightweight Multilingual Medical LLM towards Democratizing Medical AI to 6B People. [Paper](https://arxiv.org/abs/2403.03640)
+4. Large Language Models and Large Multimodal Models in Medical Imaging: A Primer for Physicians. [Paper](https://jnm.snmjournals.org/content/66/2/173.abstract)
+5. Large language models are poor medical coders—benchmarking of medical code querying. [Paper](https://ai.nejm.org/doi/full/10.1056/AIdbp2300040)
+6. Leveraging large language models for clinical abbreviation disambiguation. [Paper](https://ai.nejm.org/doi/full/10.1056/AIdbp2300040)
+
+### Attention mechanisms
+### Prompt Engineering
+### Fine-tuning
+### Knowledge distillation
+### Quantization
+### Pruning
+### Reasoning
 
 
