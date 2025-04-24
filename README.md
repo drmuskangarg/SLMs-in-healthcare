@@ -104,7 +104,7 @@ Unlike vanilla contextual pre-trained fundamentally _small_ language models (e.g
 ### Reasoning
 1. Chain of thought utilization in large language models and application in nephrology. [Paper](https://www.mdpi.com/1648-9144/60/1/148)
 2. ATSCOT: Chain of Thought for Structuring Anesthesia Medical Records. [Paper](https://ieeexplore.ieee.org/abstract/document/10776558)
-3. Comt: Chain-of-medical-thought reduces hallucination in medical report generation. [Paper](https://ieeexplore.ieee.org/abstract/document/10887699)
+3. CoMT: Chain-of-medical-thought reduces hallucination in medical report generation. [Paper](https://ieeexplore.ieee.org/abstract/document/10887699)
 4. Surgraw: Multi-agent workflow with chain-of-thought reasoning for surgical intelligence. [Paper](https://arxiv.org/abs/2503.10265)
 5. AutoMedPrompt: A New Framework for Optimizing LLM Medical Prompts Using Textual Gradients. [Paper](https://arxiv.org/abs/2502.15944)
 6. Merging Clinical Knowledge into Large Language Models for Medical Research and Applications: A Survey. [Paper](https://arxiv.org/abs/2502.20988)
