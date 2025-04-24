@@ -32,6 +32,18 @@ Unlike vanilla contextual pre-trained fundamentally _small_ language models (e.g
 15. Med-Pal: Lightweight Large Language Model for Medication Enquiry. [Paper](https://arxiv.org/abs/2407.12822)
 ### >5B parameters
 1. Me-llama: Foundation large language models for medical applications. [Paper](https://arxiv.org/abs/2402.12749)
+2. BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains. [Paper](https://arxiv.org/abs/2402.10373)
+3. BioMistral-NLU: Towards More Generalizable Medical Language Understanding through Instruction Tuning. [Paper](https://arxiv.org/abs/2410.18955) | [Model](https://github.com/uw-bionlp/BioMistral-NLU)
+4. Meerkat-7B: Small Language Models Learn Enhanced Reasoning Skills from Medical Textbooks. [Paper](https://arxiv.org/abs/2404.00376) | [Model](https://huggingface.co/dmis-lab/meerkat-7b-v1.0)
+5. MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models. [Paper](https://arxiv.org/abs/2309.13567) | [Model](https://github.com/SteveKGYang/MentalLLaMA)
+6. Med-R^2: Crafting Trustworthy LLM Physicians through Retrieval and Reasoning of Evidence-Based Medicine. [Paper](https://arxiv.org/abs/2501.11885) | [Model](https://github.com/8023looker/Med-RR)
+7. ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge. [Paper](https://arxiv.org/abs/2303.14070) | [Model](https://github.com/Kent0n-Li/ChatDoctor)
+8. MEDITRON-7B: Scaling Medical Pretraining for Large Language Models. [Paper](https://arxiv.org/abs/2311.16079) | [Model](https://github.com/epfLLM/meditron)
+9. PMC-LLaMA: Towards Building Open-source Language Models for Medicine. [Paper](https://arxiv.org/abs/2304.14454) | [Model](https://github.com/chaoyi-wu/PMC-LLaMA)
+10. MedAlpaca: An Open-Source Collection of Medical Conversational AI Models and Training Data. [Paper](https://arxiv.org/abs/2304.08247) | [Model](https://github.com/kbressem/medAlpaca)
+11. AlpaCare:Instruction-tuned Large Language Models for Medical Application. [Paper](https://arxiv.org/abs/2310.14558) | [Model](https://github.com/XZhang97666/AlpaCare)
+12. Psy-LLM: Scaling up Global Mental Health Psychological Services with AI-based Large Language Models. [Paper](https://arxiv.org/abs/2307.11991)
+13. CancerLLM: A Large Language Model in Cancer Domain. [Paper](https://arxiv.org/abs/2406.10459)
 
 
 ## Compressed LLMs into SLMs for healthcare
