@@ -12,6 +12,7 @@ Unlike vanilla contextual pre-trained fundamentally _small_ language models (e.g
 7. Medical-Diff-VQA: A Large-Scale Medical Dataset for Difference Visual Question Answering on Chest X-Ray Images. [Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599819) | [Link](https://github.com/Holipori/MIMIC-Diff-VQA)
 8. epfl-llm/guidelines: MEDITRON-70B: Scaling Medical Pretraining for Large Language Models. [Paper](https://arxiv.org/abs/2311.16079) | [Link](https://github.com/epfLLM/meditron)
 9. MedMCQA : A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering. [Paper](https://proceedings.mlr.press/v174/pal22a.html) | [Link](https://github.com/MedMCQA/MedMCQA)
+10. ColonINST: Frontiers in intelligent colonoscopy [Paper](https://arxiv.org/abs/2410.17241) | [Link](https://github.com/ai4colonoscopy/IntelliScope)
 
 ## SLMs for Healthcare
 ### 100M to 5B parameters
@@ -30,6 +31,8 @@ Unlike vanilla contextual pre-trained fundamentally _small_ language models (e.g
 13. HealsHealthAI: Unveiling Personalized Healthcare Insights with Open Source Fine-Tuned LLM. [Paper](https://onlinelibrary.wiley.com/doi/10.1002/9781394249312.ch4)
 14. Apollo: A Lightweight Multilingual Medical LLM towards Democratizing Medical AI to 6B People. [Paper](https://arxiv.org/abs/2403.03640) | [Model](https://github.com/FreedomIntelligence/Apollo?tab=readme-ov-file)
 15. Med-Pal: Lightweight Large Language Model for Medication Enquiry. [Paper](https://arxiv.org/abs/2407.12822)
+16. ColonGPT: Frontiers in intelligent colonoscopy [Paper](https://arxiv.org/abs/2410.17241) | [Model](https://github.com/ai4colonoscopy/IntelliScope)
+
 ### >5B parameters
 1. Me-llama: Foundation large language models for medical applications. [Paper](https://arxiv.org/abs/2402.12749)
 2. BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains. [Paper](https://arxiv.org/abs/2402.10373)
